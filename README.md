@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm Ayush, a senior at BITS Pilani.
+I'm Ayush.
 <!--
 **ayush-sb/ayush-sb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
