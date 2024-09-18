@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm Ayush.
+I'm Ayush, I'm interested in systems programming. I try and contribute to projects in my free time, mainly in Rust. You can reach me via [email](ayush.sb2003@gmail.com).
 <!--
 **ayush-sb/ayush-sb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
